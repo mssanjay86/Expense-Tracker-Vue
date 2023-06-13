@@ -1,9 +1,13 @@
 <script setup lang="ts">
-import Tracker from './components/Tracker.vue';
+import Tracker from './views/Tracker.vue';
 </script>
 
 <template>
-<Tracker />
+  <div>
+    <Tracker />
+  </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
